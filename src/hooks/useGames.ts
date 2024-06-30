@@ -5,7 +5,7 @@ import { Genre } from "./useGenres";
 export interface Platform {
   id: number;
   name: string;
-  background_image: string;
+  image_background: string;
   slug: string;
 }
 
